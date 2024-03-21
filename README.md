@@ -7,11 +7,11 @@ Olá me chamo Ana Paula, tenho 32 anos e sou estudante de desenvolvimento Full S
 
 
 ## 🛠 Habilidades
-HTML - 
-CSS -
-Javascript -
-React -
-Node.js -
+HTML<br>
+CSS<br>
+Javascript<br>
+React<br>
+Node.js
 
 
 ## Outras seções comuns em perfis do GitHub
