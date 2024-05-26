@@ -1,21 +1,31 @@
+<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+
+
+<img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+
+
+
+
+
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-# Olá, eu sou Ana Paula! 👋
+
+#  ( ͡° ͜ʖ ͡°) Olá, eu sou Ana Paula! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>      
 
 
-## 🚀 Sobre mim
+## 🚀 Sobre mim  (◕‿◕✿)
 Olá me chamo **Ana Paula**, tenho 32 anos e sou estudante de desenvolvimento _Full Stack javascript_. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
 
 
-## 🛠 Habilidades
+## 🛠 Habilidades (๑✧◡✧๑)
 HTML<br>
 CSS<br>
 Javascript<br>
 React<br>
 Node.js
 
-
-## Outras seções comuns em perfis do GitHub
+## Outras seções comuns em perfis do GitHub (✿◠‿◠)
 👩‍💻 Estudo atualmente no SENAC Largo Treze
 🧠 HTML + Css + Javascript
 👯‍♀️ Procuro colaborar com meus resultados e exercícios
@@ -24,6 +34,15 @@ Node.js
 📫 Como entrar em contato comigo - ana.ppviana@senacsp.edu.br
 😄 Pronomes Ela|Dela
 ⚡️ Fatos engraçados, gosto de memes!
+
+```
+。🎁 。🎉。🌟
+✨。＼｜／。🌺
+SEU TEXTO. !
+💜。／｜＼。💎
+。☀。 🌹。🌙。
+🌟。💝。🐑✨🎶
+```                                                        
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
