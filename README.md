@@ -1,9 +1,10 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 # Olá, eu sou Ana Paula! 👋
 
 
 ## 🚀 Sobre mim
-Olá me chamo Ana Paula, tenho 32 anos e sou estudante de desenvolvimento Full Stack javascript. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
+Olá me chamo **Ana Paula**, tenho 32 anos e sou estudante de desenvolvimento _Full Stack javascript_. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
 
 
 ## 🛠 Habilidades
@@ -23,6 +24,8 @@ Node.js
 📫 Como entrar em contato comigo - ana.ppviana@senacsp.edu.br
 😄 Pronomes Ela|Dela
 ⚡️ Fatos engraçados, gosto de memes!
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
 ## 🔗 Links
