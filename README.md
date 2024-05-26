@@ -1,15 +1,9 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
-
-
-
-
-
-
  <h1 align="center"> 
 ( ͡° ͜ʖ ͡°) Olá, eu sou Ana Paula! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>      
-
+ </h1>
 
 ## 🚀 Sobre mim  (◕‿◕✿)
 Olá me chamo **Ana Paula**, tenho 32 anos e sou estudante de desenvolvimento _Full Stack javascript_. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
