@@ -1,6 +1,5 @@
-![GIF engraçado](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
+<img src="https://www.cadcobol.com.br/linguagem_de_programacao_projetotifacil_01.jpg" alt="Código" width='100%'>
 
-<img src='
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
