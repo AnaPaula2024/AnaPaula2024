@@ -1,23 +1,21 @@
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
-
-
-<img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
-
-
-
-
-
-
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
-#  ( ͡° ͜ʖ ͡°) Olá, eu sou Ana Paula! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>      
+
+
+
+
+
+
+ <h1 align="center"> 
+( ͡° ͜ʖ ͡°) Olá, eu sou Ana Paula! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>      
 
 
 ## 🚀 Sobre mim  (◕‿◕✿)
 Olá me chamo **Ana Paula**, tenho 32 anos e sou estudante de desenvolvimento _Full Stack javascript_. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
 
-
+<div align="center">
+  
 ## 🛠 Habilidades (๑✧◡✧๑)
 HTML<br>
 CSS<br>
@@ -45,7 +43,7 @@ SEU TEXTO. !
 ```                                                        
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
+</div>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/AnaPaula2024)
