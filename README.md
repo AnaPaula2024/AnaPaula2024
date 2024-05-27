@@ -11,7 +11,7 @@
  <h2 align="center"> 
 🚀 Sobre mim  (◕‿◕✿) 
  </h2>
-Sou estudante de desenvolvimento _Full Stack javascript_. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
+Sou estudante de desenvolvimento <i>Full Stack javascript</i>. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
 
  <div align="left">
 
