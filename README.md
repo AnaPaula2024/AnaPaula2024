@@ -3,7 +3,7 @@
 <img src="https://www.cadcobol.com.br/linguagem_de_programacao_projetotifacil_01.jpg" alt="Código" width='80%'>
 </div>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 
 
  <h1 align="center"> 
@@ -15,7 +15,7 @@
  </h2>
 Sou estudante de desenvolvimento _Full Stack javascript_. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
 
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
  <div align="center">
   
 ## 🛠 Habilidades (๑✧◡✧๑)
