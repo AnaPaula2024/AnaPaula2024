@@ -4,7 +4,8 @@
 </div>
 
  <h1 align="center"> 
-( ͡° ͜ʖ ͡°) Olá, eu sou 𝔸𝕟𝕒 ℙ𝕒𝕦𝕝𝕒! 𝐵𝑒𝓂-𝓋𝒾𝓃𝒹𝑜 𝒶𝑜 𝓂𝑒𝓊 𝓅𝑒𝓇𝒻𝒾𝓁 𝒹𝑜 𝒢𝒾𝓉𝐻𝓊𝒷!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>      
+( ͡° ͜ʖ ͡°) Olá, eu sou 𝔸𝕟𝕒 ℙ𝕒𝕦𝕝𝕒! <br>
+  𝐵𝑒𝓂-𝓋𝒾𝓃𝒹𝑜 𝒶𝑜 𝓂𝑒𝓊 𝓅𝑒𝓇𝒻𝒾𝓁 𝒹𝑜 𝒢𝒾𝓉𝐻𝓊𝒷!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>      
  </h1>
 
  <h2 align="center"> 
@@ -12,9 +13,12 @@
  </h2>
 Sou estudante de desenvolvimento _Full Stack javascript_. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
- <div align="center">
-  
+
+
+ <div align="left">
+
+ <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> 
+ 
 ## 🛠 Habilidades (๑✧◡✧๑)
 HTML<br>
 CSS<br>
@@ -32,8 +36,9 @@ Node.js
 😄 Pronomes Ela|Dela
 ⚡️ Fatos engraçados, gosto de memes!
 
+<div align="center">
 <img src="https://pbs.twimg.com/media/E2vlhqfXoAkl1HB.jpg" alt="Programadores" width='60%'>                                                       
-
+</div>
 </div>
 
 ## 🔗 Links
