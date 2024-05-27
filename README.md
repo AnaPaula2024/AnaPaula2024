@@ -3,9 +3,6 @@
 <img src="https://www.cadcobol.com.br/linguagem_de_programacao_projetotifacil_01.jpg" alt="Código" width='80%'>
 </div>
 
-
-
-
  <h1 align="center"> 
 ( ͡° ͜ʖ ͡°) Olá, eu sou 𝔸𝕟𝕒 ℙ𝕒𝕦𝕝𝕒! 𝐵𝑒𝓂-𝓋𝒾𝓃𝒹𝑜 𝒶𝑜 𝓂𝑒𝓊 𝓅𝑒𝓇𝒻𝒾𝓁 𝒹𝑜 𝒢𝒾𝓉𝐻𝓊𝒷!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>      
  </h1>
@@ -36,7 +33,6 @@ Node.js
 ⚡️ Fatos engraçados, gosto de memes!
 
 <img src="https://pbs.twimg.com/media/E2vlhqfXoAkl1HB.jpg" alt="Programadores" width='60%'>                                                       
-
 
 </div>
 
