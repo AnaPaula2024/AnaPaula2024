@@ -4,7 +4,7 @@
 </div>
 
  <h1 align="center"> 
-( ͡° ͜ʖ ͡°) Olá, eu sou 𝔸𝕟𝕒 ℙ𝕒𝕦𝕝𝕒! <br>
+( ͡° ͜ʖ ͡°) Olá guys, aqui é a 𝔸𝕟𝕒 ℙ𝕒𝕦𝕝𝕒! <br>
   𝐵𝑒𝓂-𝓋𝒾𝓃𝒹𝑜 𝒶𝑜 𝓂𝑒𝓊 𝓅𝑒𝓇𝒻𝒾𝓁 𝒹𝑜 𝒢𝒾𝓉𝐻𝓊𝒷!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>      
  </h1>
 
@@ -12,8 +12,6 @@
 🚀 Sobre mim  (◕‿◕✿) 
  </h2>
 Sou estudante de desenvolvimento _Full Stack javascript_. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
-
-
 
  <div align="left">
 
