@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img src="https://www.cadcobol.com.br/linguagem_de_programacao_projetotifacil_01.jpg" alt="Código" width='80%'>
 </div>
 
@@ -9,20 +9,23 @@
  </h1>
 
  <h2 align="center"> 
-🚀 Sobre mim  (◕‿◕✿) 
- </h2>
+🚀 Sobre mim  (◕‿◕✿) <br>
 Sou estudante de desenvolvimento <i>Full Stack javascript</i>. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
+</h2>
 
- <div align="left">
+![programador](https://raw.githubusercontent.com/AnaPaula2024/AnaPaula2024/main/giphy.webp)
 
- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> 
- 
-## 🛠 Habilidades (๑✧◡✧๑)
+ <h3 align="center"> 
+🛠 Habilidades (๑✧◡✧๑)
 HTML<br>
 CSS<br>
 Javascript<br>
 React<br>
 Node.js
+ </h3>
+
+ <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> 
+
 
 ## Outras seções comuns em perfis do GitHub (✿◠‿◠)
 👩‍💻 Estudo atualmente no SENAC Largo Treze
@@ -36,8 +39,9 @@ Node.js
 
 <div align="center">
 <img src="https://pbs.twimg.com/media/E2vlhqfXoAkl1HB.jpg" alt="Programadores" width='60%'>                                                       
+
 </div>
-</div>
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/AnaPaula2024)
