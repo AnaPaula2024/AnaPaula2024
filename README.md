@@ -21,7 +21,8 @@ HTML<br>
 CSS<br>
 Javascript<br>
 React<br>
-Node.js
+Node.js<br>
+Python
  </h3>
 
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> 
@@ -29,7 +30,7 @@ Node.js
 
 ## Outras seções comuns em perfis do GitHub (✿◠‿◠)
 👩‍💻 Estudo atualmente no SENAC Largo Treze
-🧠 HTML + Css + Javascript
+🧠 HTML + Css + Javascript + Python
 👯‍♀️ Procuro colaborar com meus resultados e exercícios
 🤔 Procuro ajuda de todos que puderem
 💬 Me pergunte sobre programação e desenvolvimento de sistemas
