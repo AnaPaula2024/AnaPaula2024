@@ -55,7 +55,7 @@
 </h2>
 
 <p align="center">
-  📧 E-mail (Senac):ana.ppviana@senacsp.edu.br <br>
+  📧 E-mail (Senac): ana.ppviana@senacsp.edu.br <br>
   📧 E-mail (Hotmail): ana.pereira.viana@hotmail.com <br>
   📧 E-mail (Gmail): paulinhapv22@gmail.com
 </p>
