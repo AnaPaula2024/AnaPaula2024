@@ -16,17 +16,19 @@
   <img src="https://raw.githubusercontent.com/AnaPaula2024/AnaPaula2024/main/giphy.webp" alt="programador">
 </p>
 
-<h3 align="center"> 
+<h3 align="center">
   🛠 Habilidades (๑✧◡✧๑)
-  <br>
-  HTML<br>
-  CSS<br>
-  Javascript<br>
-  React<br>
-  Node.js<br>
-  Python<br>
-  Java
 </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"><br>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"><br>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"><br>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"><br>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"><br>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"><br>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java"><br>
+</p>
 
 <p align="center">
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
@@ -50,9 +52,9 @@
   <img src="https://pbs.twimg.com/media/E2vlhqfXoAkl1HB.jpg" alt="Programadores" width="60%">
 </p>
 
-<h2 align="center">
+<h3 align="center">
   📬 Contato
-</h2>
+</h3>
 
 <p align="center">
   📧 E-mail (Senac): ana.ppviana@senacsp.edu.br <br>
