@@ -57,5 +57,9 @@
 <p align="center">
   📧 E-mail (Senac): ana.ppviana@senacsp.edu.br <br>
   📧 E-mail (Hotmail): ana.pereira.viana@hotmail.com <br>
-  📧 E-mail (Gmail): paulinhapv22@gmail.com
+  📧 E-mail (Gmail): paulinhapv22@gmail.com <br>
+  <br>
+  <a href="https://www.linkedin.com/in/ana-paula-pereira-viana-6ab82a268/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
